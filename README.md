@@ -1,9 +1,9 @@
 <!--
 PROFILE SETUP — these notes are hidden on GitHub.
-1. Replace every YOUR_GITHUB_USERNAME with your actual GitHub username.
+1. Replace every wasifyasin with your actual GitHub username.
 2. This draft uses Wasif Yasin, 7+ years, and Odoo 13–19. Edit if needed.
 3. Save as README.md at the root of a PUBLIC repository named exactly like
-   your username: YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME.
+   your username: wasifyasin/wasifyasin.
 4. Email, LinkedIn, portfolio and project links are optional templates below.
    Replace their placeholders before removing their surrounding comment.
 5. External image services can be unavailable or rate-limited. Stats describe
@@ -26,7 +26,7 @@ I turn business requirements into practical Odoo workflows.
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=20&amp;pause=1500&amp;color=BB86FC&amp;center=true&amp;vCenter=true&amp;width=650&amp;height=50&amp;lines=7%2B+years+of+ERP+experience;Odoo+13+to+19+%7C+Functional+%2B+Technical;Accounting+%7C+POS+%7C+Inventory+%7C+MRP;From+business+process+to+working+system" alt="7+ years of ERP experience; Odoo functional consulting and development" />
 
 <p>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories"><img src="https://img.shields.io/badge/Explore_My_Code-714B67?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore my repositories" /></a>
+  <a href="https://github.com/wasifyasin?tab=repositories"><img src="https://img.shields.io/badge/Explore_My_Code-714B67?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore my repositories" /></a>
   <a href="#what-i-do"><img src="https://img.shields.io/badge/What_I_Do-21262D?style=for-the-badge&amp;logo=odoo&amp;logoColor=white" alt="What I do" /></a>
   <a href="#technical-toolkit"><img src="https://img.shields.io/badge/My_Toolkit-21262D?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="My toolkit" /></a>
 </p>
@@ -141,9 +141,9 @@ I start with the actual business process, use standard Odoo features where they 
 
 <div align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=BB86FC&amp;icon_color=BB86FC&amp;text_color=C9D1D9&amp;hide_rank=true" alt="Wasif's public GitHub statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&amp;layout=compact&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=BB86FC&amp;text_color=C9D1D9" alt="Languages across public repositories" />
+<a href="https://github.com/wasifyasin">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=wasifyasin&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=BB86FC&amp;icon_color=BB86FC&amp;text_color=C9D1D9&amp;hide_rank=true" alt="Wasif's public GitHub statistics" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasifyasin&amp;layout=compact&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=BB86FC&amp;text_color=C9D1D9" alt="Languages across public repositories" />
 </a>
 
 <sub>Language cards reflect public repository code, rather than a complete measure of skills.</sub>
@@ -158,8 +158,8 @@ then remove this comment wrapper. Do not publish sample projects as past work.
 
 | Project | What it does | Built with |
 | --- | --- | --- |
-| [PROJECT_ONE](https://github.com/YOUR_GITHUB_USERNAME/PROJECT_ONE) | ADD_REAL_PROJECT_DESCRIPTION | Odoo · Python · PostgreSQL |
-| [PROJECT_TWO](https://github.com/YOUR_GITHUB_USERNAME/PROJECT_TWO) | ADD_REAL_PROJECT_DESCRIPTION | Odoo · JavaScript · QWeb |
+| [PROJECT_ONE](https://github.com/wasifyasin/PROJECT_ONE) | ADD_REAL_PROJECT_DESCRIPTION | Odoo · Python · PostgreSQL |
+| [PROJECT_TWO](https://github.com/wasifyasin/PROJECT_TWO) | ADD_REAL_PROJECT_DESCRIPTION | Odoo · JavaScript · QWeb |
 -->
 
 ## Let's connect
@@ -167,7 +167,7 @@ then remove this comment wrapper. Do not publish sample projects as past work.
 Interested in discussing an Odoo implementation, customization or integration? Find my contact details on my GitHub profile.
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/Visit_My_Profile-714B67?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Visit my GitHub profile" /></a>
+  <a href="https://github.com/wasifyasin"><img src="https://img.shields.io/badge/Visit_My_Profile-714B67?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Visit my GitHub profile" /></a>
 </p>
 
 <!-- OPTIONAL CONTACT BUTTONS: replace each placeholder, then uncomment.
@@ -187,9 +187,9 @@ ONLY this comment wrapper to display the picture below.
 ## Contribution snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake.svg" />
-  <img width="100%" alt="Animated snake following my GitHub contributions" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wasifyasin/wasifyasin/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wasifyasin/wasifyasin/output/github-snake.svg" />
+  <img width="100%" alt="Animated snake following my GitHub contributions" src="https://raw.githubusercontent.com/wasifyasin/wasifyasin/output/github-snake.svg" />
 </picture>
 -->
 
@@ -260,3 +260,4 @@ https://github.com/Platane/snk
 https://github.com/DenverCoder1/readme-typing-svg
 https://github.com/anuraghazra/github-readme-stats
 -->
+
