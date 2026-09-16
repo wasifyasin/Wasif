@@ -45,13 +45,13 @@ I'm Wasif Yasin, an Odoo consultant and developer with 7+ years of experience he
 
 My work connects functional consulting with technical implementation: understanding how a team works, configuring the right modules, developing required customizations, and supporting users through testing and daily operations.
 
-🧩 Functional consulting: process mapping, module configuration, roles and user training.
+🧩 Functional consulting: process mapping, module configuration, access rights and user training.
 
-🛠️ Development: custom modules, business workflows, reports and integrations.
+🛠️ Development: custom modules, ORM logic, OWL components, QWeb reports and integrations.
 
-📦 Operations: sales, purchasing, inventory, manufacturing and point of sale.
+📦 Operations: Sales, Purchase, Inventory, MRP, Accounting, CRM, POS and eCommerce.
 
-📊 Business visibility: accounting workflows, reporting and useful management views.
+📊 Business visibility: accounting workflows, dashboards, reporting and management views.
 
 What I do
 
@@ -148,13 +148,35 @@ Technical toolkit
   <img src="https://skillicons.dev/icons?i=python,js,postgres,html,css,git,github,linux,docker,vscode&amp;perline=10" alt="Python, JavaScript, PostgreSQL, HTML, CSS, Git, GitHub, Linux, Docker and VS Code" />
 </p>
 
+Odoo development
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Odoo_ORM-714B67?style=flat-square" alt="Odoo ORM" />
-  <img src="https://img.shields.io/badge/OWL-714B67?style=flat-square" alt="OWL" />
-  <img src="https://img.shields.io/badge/XML_%2F_QWeb-714B67?style=flat-square" alt="XML and QWeb" />
-  <img src="https://img.shields.io/badge/REST_APIs-714B67?style=flat-square" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/Odoo.sh-714B67?style=flat-square" alt="Odoo.sh" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Odoo_ORM-714B67?style=for-the-badge&amp;logo=odoo&amp;logoColor=white" alt="Odoo ORM" />
+  <img src="https://img.shields.io/badge/OWL-875A7B?style=for-the-badge&amp;logo=odoo&amp;logoColor=white" alt="Odoo Web Library" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/XML_%2F_QWeb-714B67?style=for-the-badge&amp;logo=odoo&amp;logoColor=white" alt="XML and QWeb" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL" />
 </p>
+
+Integrations, deployment & engineering
+
+<p align="center">
+  <img src="https://img.shields.io/badge/REST_API-005571?style=flat-square" alt="REST API" />
+  <img src="https://img.shields.io/badge/JSON--RPC-714B67?style=flat-square" alt="JSON-RPC" />
+  <img src="https://img.shields.io/badge/XML--RPC-875A7B?style=flat-square" alt="XML-RPC" />
+  <img src="https://img.shields.io/badge/Webhooks-238636?style=flat-square" alt="Webhooks" />
+  <img src="https://img.shields.io/badge/Odoo.sh-714B67?style=flat-square&amp;logo=odoo&amp;logoColor=white" alt="Odoo.sh" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&amp;logo=linux&amp;logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&amp;logo=githubactions&amp;logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/CI%2FCD-21262D?style=flat-square" alt="CI/CD" />
+</p>
+
+Odoo architecture & delivery
+
+Models · Views · Security & Record Rules · Automated Actions · Scheduled Actions · Reports · Controllers · Data Migration · Performance Optimization · Testing · Version Upgrades
 
 How I work
 
