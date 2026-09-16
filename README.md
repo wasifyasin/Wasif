@@ -15,11 +15,13 @@ PROFILE SETUP — these notes are hidden on GitHub.
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:714B67,55:44324F,100:0D1117&amp;height=220&amp;section=header&amp;text=Wasif%20Yasin&amp;fontSize=56&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=ODOO%20%20%2F%20%20ERP%20%20%2F%20%20BUSINESS%20SYSTEMS&amp;descAlignY=60&amp;descSize=16" alt="Wasif Yasin — Odoo, ERP and Business Systems" />
+<a href="https://github.com/wasifyasin">
+  <img width="800" src="https://readme-typing-svg.demolab.com?font=Orbitron&amp;weight=900&amp;size=52&amp;duration=3500&amp;pause=1000&amp;color=00FF41&amp;background=0D1117&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=800&amp;height=100&amp;lines=Wasif+Yasin" alt="Wasif Yasin" />
+</a>
 
-# Hi, I'm Wasif 👋
+Hi, I'm Wasif Yasin 👋
 
-### Odoo Techno-Functional Consultant · ERP Developer
+Odoo Techno-Functional Consultant · ERP Developer
 
 I turn business requirements into practical Odoo workflows.
 
@@ -37,33 +39,34 @@ I turn business requirements into practical Odoo workflows.
 
 </div>
 
----
+About me
 
-## About me
-
-I'm **Wasif Yasin**, an Odoo consultant and developer with **7+ years of experience** helping businesses organize their operations through ERP systems.
+I'm Wasif Yasin, an Odoo consultant and developer with 7+ years of experience helping businesses organize their operations through ERP systems.
 
 My work connects functional consulting with technical implementation: understanding how a team works, configuring the right modules, developing required customizations, and supporting users through testing and daily operations.
 
-- 🧩 **Functional consulting:** process mapping, module configuration, roles and user training.
-- 🛠️ **Development:** custom modules, business workflows, reports and integrations.
-- 📦 **Operations:** sales, purchasing, inventory, manufacturing and point of sale.
-- 📊 **Business visibility:** accounting workflows, reporting and useful management views.
+🧩 Functional consulting: process mapping, module configuration, roles and user training.
 
-## What I do
+🛠️ Development: custom modules, business workflows, reports and integrations.
+
+📦 Operations: sales, purchasing, inventory, manufacturing and point of sale.
+
+📊 Business visibility: accounting workflows, reporting and useful management views.
+
+What I do
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🧭 ERP implementation
+🧭 ERP implementation
 
 Translate business processes into an Odoo setup with clear workflows, appropriate access and practical user guidance.
 
 </td>
 <td width="50%" valign="top">
 
-### ⚙️ Custom development
+⚙️ Custom development
 
 Build modules, extend existing features and create reports that support the way a business operates.
 
@@ -72,14 +75,14 @@ Build modules, extend existing features and create reports that support the way 
 <tr>
 <td width="50%" valign="top">
 
-### 🔗 Integrations & data
+🔗 Integrations & data
 
 Connect external systems, map business data and support imports with validation and duplicate handling.
 
 </td>
 <td width="50%" valign="top">
 
-### 🔧 Troubleshooting & support
+🔧 Troubleshooting & support
 
 Investigate errors, improve existing workflows and help teams maintain a reliable Odoo environment.
 
@@ -87,7 +90,7 @@ Investigate errors, improve existing workflows and help teams maintain a reliabl
 </tr>
 </table>
 
-## Odoo expertise
+Odoo expertise
 
 <p align="center">
   <img src="https://img.shields.io/badge/Accounting-714B67?style=for-the-badge" alt="Accounting" />
@@ -105,19 +108,41 @@ Investigate errors, improve existing workflows and help teams maintain a reliabl
 <details>
 <summary><b>Explore the workflows I work with</b></summary>
 
-| Business area | Workflow focus |
-| --- | --- |
-| Sales & CRM | Lead tracking, quotations, sales orders and follow-ups |
-| Accounting | Invoicing, payments, reconciliation and reporting |
-| Inventory & Purchase | Replenishment, receipts, internal transfers and deliveries |
-| Manufacturing | Bills of materials, production orders and material movements |
-| Point of Sale | Retail operations, product setup and stock integration |
-| HR & Project | Employee records, attendance, tasks and timesheets |
-| Website & eCommerce | Product catalogs, customer journeys and order flow |
+Business area
+
+Workflow focus
+
+Sales & CRM
+
+Lead tracking, quotations, sales orders and follow-ups
+
+Accounting
+
+Invoicing, payments, reconciliation and reporting
+
+Inventory & Purchase
+
+Replenishment, receipts, internal transfers and deliveries
+
+Manufacturing
+
+Bills of materials, production orders and material movements
+
+Point of Sale
+
+Retail operations, product setup and stock integration
+
+HR & Project
+
+Employee records, attendance, tasks and timesheets
+
+Website & eCommerce
+
+Product catalogs, customer journeys and order flow
 
 </details>
 
-## Technical toolkit
+Technical toolkit
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,postgres,html,css,git,github,linux,docker,vscode&amp;perline=10" alt="Python, JavaScript, PostgreSQL, HTML, CSS, Git, GitHub, Linux, Docker and VS Code" />
@@ -131,19 +156,21 @@ Investigate errors, improve existing workflows and help teams maintain a reliabl
   <img src="https://img.shields.io/badge/Odoo.sh-714B67?style=flat-square" alt="Odoo.sh" />
 </p>
 
-## How I work
+How I work
 
-**Understand → Configure → Develop → Validate → Support**
+Understand → Configure → Develop → Validate → Support
 
 I start with the actual business process, use standard Odoo features where they fit, and add custom development where it provides a clear benefit. I validate the complete workflow before handover and document what users need to operate it.
 
-## GitHub activity
+GitHub activity
 
 <div align="center">
 
 <a href="https://github.com/wasifyasin">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=wasifyasin&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=BB86FC&amp;icon_color=BB86FC&amp;text_color=C9D1D9&amp;hide_rank=true" alt="Wasif's public GitHub statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasifyasin&amp;layout=compact&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=BB86FC&amp;text_color=C9D1D9" alt="Languages across public repositories" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=wasifyasin&amp;theme=github_dark" alt="Wasif Yasin's public GitHub statistics" />
+</a>
+<a href="https://github.com/wasifyasin?tab=repositories">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wasifyasin&amp;theme=github_dark" alt="Languages across Wasif Yasin's public repositories" />
 </a>
 
 <sub>Language cards reflect public repository code, rather than a complete measure of skills.</sub>
@@ -162,7 +189,7 @@ then remove this comment wrapper. Do not publish sample projects as past work.
 | [PROJECT_TWO](https://github.com/wasifyasin/PROJECT_TWO) | ADD_REAL_PROJECT_DESCRIPTION | Odoo · JavaScript · QWeb |
 -->
 
-## Let's connect
+Let's connect
 
 Interested in discussing an Odoo implementation, customization or integration? Find my contact details on my GitHub profile.
 
@@ -195,9 +222,7 @@ ONLY this comment wrapper to display the picture below.
 
 <div align="center">
 
----
-
-**Clear processes. Useful software. Reliable operations.**
+Clear processes. Useful software. Reliable operations.
 
 <a href="#profile-top"><img src="https://img.shields.io/badge/Back_to_Top-21262D?style=flat-square" alt="Back to top" /></a>
 
@@ -260,4 +285,3 @@ https://github.com/Platane/snk
 https://github.com/DenverCoder1/readme-typing-svg
 https://github.com/anuraghazra/github-readme-stats
 -->
-
